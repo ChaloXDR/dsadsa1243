@@ -1,0 +1,5 @@
+{
+  "name": "TTS-RSVP ARTICLE MEDIREADER",
+  "description": "An application to clean medical articles and read them aloud using Text-to-Speech (TTS) and a Rapid Serial Visual Presentation (RSVP) display for enhanced reading speed and focus.",
+  "requestFramePermissions": []
+}

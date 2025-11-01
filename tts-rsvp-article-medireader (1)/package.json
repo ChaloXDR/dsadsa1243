@@ -1,0 +1,12 @@
+{
+  "name": "tts-rsvp-medireader-web",
+  "version": "1.0.0",
+  "description": "A web application to clean medical articles and read them aloud using Text-to-Speech (TTS) and a Rapid Serial Visual Presentation (RSVP) display.",
+  "author": "AI Assistant",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@google/genai": "^1.28.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  }
+}
